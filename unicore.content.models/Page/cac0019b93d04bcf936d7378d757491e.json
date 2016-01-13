@@ -6,12 +6,12 @@
   "primary_category": "38decbb6ab52480aa02218bca0ed92f5", 
   "created_at": "2015-12-30T10:44:56+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-30T11:09:29.343755+00:00", 
+  "modified_at": "2016-01-13T19:00:30.438597+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 7, 
+  "position": 17, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-save-friend", 
   "uuid": "cac0019b93d04bcf936d7378d757491e"
